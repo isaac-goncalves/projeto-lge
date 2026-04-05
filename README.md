@@ -42,6 +42,7 @@ O dashboard permite:
   - Quantidade de defeitos
   - Eficiência (%)
 - **Tooltip** no dashboard explicando a regra de eficiência
+- **Dark mode automático**: por padrão segue a preferência do sistema operacional/navegador (dark mode da máquina) e pode ser alternado manualmente no toggle (preferência salva no navegador)
 
 ## Regra de eficiência
 
