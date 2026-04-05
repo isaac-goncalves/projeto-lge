@@ -10,6 +10,8 @@ Dashboard de eficiência de produção da **Planta A · Manaus** para o mês de 
 
 ## Visão geral
 
+<img width="2086" height="1287" alt="{22CE796A-3254-49F8-86AB-3920DD756156}" src="https://github.com/user-attachments/assets/9c77f795-fbcb-4965-a6ab-30e599d4eef1" />
+
 Linhas de produção atendidas:
 
 - Geladeira
